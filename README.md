@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="Coding from home.gif"  />
+  <img height="150" src="Codin![Coding from home](https://github.com/user-attachments/assets/00ac5550-6fb5-4d62-8de0-c1672908743f)
+g from home.gif"  />
 </div>
 
 ###
@@ -24,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Dima from Germany<br><br>- 🔭 I’m currently a student<br>- 📚 I'm currently learning java,css & python<br>- ⚡ In my free time I like to read or do something else.</p>
+<p align="left">I'm Dima from Germany<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning java,css & python<br>- ⚡ In my free time I like to read or do something else.</p>
 
 ###
 
