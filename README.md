@@ -1,42 +1,45 @@
+<!-- Profil-Header -->
 <div align="center">
-  <img height="150" src="Codin![Coding from home](https://github.com/user-attachments/assets/00ac5550-6fb5-4d62-8de0-c1672908743f)
-g from home.gif"  />
+  <img height="150" src="Coding from home.gif" alt="Coding from home" />
 </div>
 
-###
+<br>
 
+<!-- LinkedIn Badge mit funktionalem Link -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/deinprofil" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge" />
+  </a>
 </div>
 
-###
+<br>
 
+<!-- Besucherzähler -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dimaceylan"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dimaceylan" alt="visitor badge"/>
 </div>
 
-###
+<br>
 
+<!-- Begrüßung -->
 <h1 align="center">hey there 👋</h1>
 
-###
+<br>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<!-- Über mich -->
+<h3 align="left">👩‍💻 About Me</h3>
 
-###
+<ul align="left">
+  <li>🔭 I’m currently a student</li>
+  <li>📚 I'm learning Java, CSS & Python</li>
+  <li>⚡ In my free time I like to read or do other creative things</li>
+</ul>
 
-<p align="left">I'm Dima from Germany<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning java,css & python<br>- ⚡ In my free time I like to read or do something else.</p>
+<br>
 
-###
-
-
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<!-- GitHub-Streak-Stats -->
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dimaceylanlocale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dimaceylan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Stats" />
 </div>
-
-###
