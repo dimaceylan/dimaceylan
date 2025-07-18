@@ -1,6 +1,5 @@
 <!-- Profil-Header -->
-<div align="center">
-  <img height="150" src="Coding from home.gif" alt="Coding from home" />
+<div align="center">![Coding from home](https://github.com/user-attachments/assets/563dc8c0-ade8-415b-b43d-e7984cfda676)
 </div>
 
 <br>
